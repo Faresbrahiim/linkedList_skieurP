@@ -1,0 +1,6 @@
+Alice 45 48
+Bob 0 50 
+Charlie 42 44
+David 41 0 
+Eva 43 46 
+hind 12 23

@@ -1,0 +1,4 @@
+hind | Dossard: 6 | Total: 35 | Ecart: 0
+Charlie | Dossard: 3 | Total: 86 | Ecart: 51
+Eva | Dossard: 5 | Total: 89 | Ecart: 54
+Alice | Dossard: 1 | Total: 93 | Ecart: 58
